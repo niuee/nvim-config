@@ -1,6 +1,6 @@
 # nvim config
 
-Neovim setup built on lazy.nvim and coc.nvim (TypeScript, JavaScript, Vue, HTML, JSON, ESLint), with Telescope, neo-tree, bufferline, lualine, gitsigns, fugitive, treesitter and codecompanion.
+Neovim setup built on lazy.nvim and coc.nvim (TypeScript, JavaScript, Vue, HTML, JSON, ESLint), with Telescope, neo-tree, bufferline, lualine, gitsigns, fugitive, treesitter, codecompanion and leetcode.nvim.
 
 ## Requirements
 
